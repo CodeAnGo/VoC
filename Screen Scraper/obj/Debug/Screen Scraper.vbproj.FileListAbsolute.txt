@@ -1,0 +1,10 @@
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WFStubInstaller\Screen Scraper\Screen Scraper\bin\Debug\Screen Scraper.exe.config
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WFStubInstaller\Screen Scraper\Screen Scraper\bin\Debug\Screen Scraper.exe
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WFStubInstaller\Screen Scraper\Screen Scraper\bin\Debug\Screen Scraper.pdb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WFStubInstaller\Screen Scraper\Screen Scraper\bin\Debug\Screen Scraper.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WFStubInstaller\Screen Scraper\Screen Scraper\obj\Debug\Screen Scraper.vbprojResolveAssemblyReference.cache
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WFStubInstaller\Screen Scraper\Screen Scraper\obj\Debug\Screen_Scraper.Resources.resources
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WFStubInstaller\Screen Scraper\Screen Scraper\obj\Debug\Screen Scraper.vbproj.GenerateResource.Cache
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WFStubInstaller\Screen Scraper\Screen Scraper\obj\Debug\Screen Scraper.exe
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WFStubInstaller\Screen Scraper\Screen Scraper\obj\Debug\Screen Scraper.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WFStubInstaller\Screen Scraper\Screen Scraper\obj\Debug\Screen Scraper.pdb

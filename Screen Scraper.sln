@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Screen Scraper", "Screen Scraper\Screen Scraper.vbproj", "{F1DD5540-7C21-4D43-AB82-860C17C5062B}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Broker Service", "Broker Service\Broker Service.vbproj", "{7FC0D2D5-0458-4D9A-9C4E-A9108E0AB9FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1DD5540-7C21-4D43-AB82-860C17C5062B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1DD5540-7C21-4D43-AB82-860C17C5062B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1DD5540-7C21-4D43-AB82-860C17C5062B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1DD5540-7C21-4D43-AB82-860C17C5062B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FC0D2D5-0458-4D9A-9C4E-A9108E0AB9FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC0D2D5-0458-4D9A-9C4E-A9108E0AB9FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC0D2D5-0458-4D9A-9C4E-A9108E0AB9FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC0D2D5-0458-4D9A-9C4E-A9108E0AB9FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

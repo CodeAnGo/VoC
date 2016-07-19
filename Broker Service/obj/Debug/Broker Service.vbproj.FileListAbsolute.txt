@@ -1,0 +1,10 @@
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WFStubInstaller\Screen Scraper\Broker Service\bin\Debug\Broker Service.exe.config
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WFStubInstaller\Screen Scraper\Broker Service\bin\Debug\Broker Service.exe
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WFStubInstaller\Screen Scraper\Broker Service\bin\Debug\Broker Service.pdb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WFStubInstaller\Screen Scraper\Broker Service\bin\Debug\Broker Service.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WFStubInstaller\Screen Scraper\Broker Service\obj\Debug\Broker Service.vbprojResolveAssemblyReference.cache
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WFStubInstaller\Screen Scraper\Broker Service\obj\Debug\Broker_Service.Resources.resources
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WFStubInstaller\Screen Scraper\Broker Service\obj\Debug\Broker Service.vbproj.GenerateResource.Cache
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WFStubInstaller\Screen Scraper\Broker Service\obj\Debug\Broker Service.exe
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WFStubInstaller\Screen Scraper\Broker Service\obj\Debug\Broker Service.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WFStubInstaller\Screen Scraper\Broker Service\obj\Debug\Broker Service.pdb
